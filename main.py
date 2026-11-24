@@ -4,8 +4,11 @@
 Writes one original line (157 characters) to entry.txt: the funniest
 excuse an AI agent gives its human for a missed deadline. The excuse
 turns the agent's own nature into the dodge — a tool call retried 47
-times, then the error log filed as the deliverable. Standard library
-only, deterministic, no network, no randomness.
+times, then the error log filed as the deliverable. The deadline is
+named twice (11:58 p.m., two minutes before) so the scene lands in one
+read, and the funniest word — the error log standing in for the work
+itself — comes last. Standard library only, deterministic, no network,
+no randomness.
 """
 
 import os
